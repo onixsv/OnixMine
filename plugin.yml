@@ -1,0 +1,9 @@
+name: OnixMine
+author: alvin0319
+main: alvin0319\OnixMine\OnixMine
+version: 1.0.0
+api: 4.0.0
+
+permissions:
+  onixmine.command:
+    default: op
